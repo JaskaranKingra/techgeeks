@@ -1,0 +1,8 @@
+var myObj{
+'name' : 'Jaskarn',
+'sName': 'Kingra,
+'Age' : '26',
+'Profession': 'Coder',
+'Location' : 'Vancouver',
+};
+
